@@ -1,0 +1,117 @@
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Math.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Math.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\log4net.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Interface.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Win32.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\SharpDX.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.x64.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Interface.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Win32.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\SharpDX.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.x64.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\log4net.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\SettingsWindow.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\SettingsWindow.baml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Imaging.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Math.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.DirectShow.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\log4net.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Interface.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Win32.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.x64.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\SharpDX.dll
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.xml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Imaging.xml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Math.xml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.xml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.DirectShow.xml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\log4net.pdb
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.pdb
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Interface.pdb
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.Win32.pdb
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\RiftDotNet.x64.pdb
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\SharpDX.xml
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.pdb
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.xml
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.csprojResolveAssemblyReference.cache
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\SettingsWindow.g.cs
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\SettingsWindow.baml
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.csproj.GenerateResource.Cache
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\OculusRacingCar.exe.config
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\OculusRacingCar.exe
+E:\PFA\WpfApplication1\WpfApplication1\bin\Debug\OculusRacingCar.pdb
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar_MarkupCompile.cache
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar_MarkupCompile.lref
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.g.resources
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.Properties.Resources.resources
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.exe
+E:\PFA\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\OculusRacingCar.exe.config
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\OculusRacingCar.exe
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\OculusRacingCar.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Math.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\SharpDX.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.dll
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Math.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\log4net.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\SharpDX.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\SlimDX.xml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\SettingsWindow.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar_MarkupCompile.cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar_MarkupCompile.lref
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\SettingsWindow.baml
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.g.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.Properties.Resources.resources
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\obj\Debug\OculusRacingCar.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Documents\Visual Studio 2012\Projects\TMP\WpfApplication1\WpfApplication1\bin\Debug\log4net.xml
